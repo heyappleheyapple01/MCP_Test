@@ -2,7 +2,7 @@
     way to exchange and manage contextual information for machine learning
     models, AI systems, and language models. MCP aims to facilitate
     interoperability between tools, platforms, and services by providing a clear
-    specification fcopor how context—such as prompts, conversation history, and
+    specification for how context—such as prompts, conversation history, and
     environmental data—can be packaged, transferred, and processed.
 
     ## Key Features
